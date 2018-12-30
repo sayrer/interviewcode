@@ -9,3 +9,4 @@ rand = "*"
 
 [dependencies]
 jemallocator = "0.1.8"
+tendril = "0.4.1"
